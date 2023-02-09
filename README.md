@@ -35,10 +35,17 @@ Pour en savoir plus sur le langage Rust, je vous invite à lire la documentation
 ## Etape 3 : Exercices 3️⃣
 
 - Ecrire un programme qui affiche "Hello World!" à l'écran.
-- Demander à l'utilisateur de saisir deux nombres, puis afficher leur somme.
-- Déclarer un tableau de 5 entiers et initialiser chacun d'eux avec une valeur saisie par l'utilisateur. Afficher le contenu du tableau à l'écran.
+- Demander à l'utilisateur de saisir deux nombres, puis print leur somme.
+- Écrivez un programme qui calcule la somme des nombres entiers de 1 à n, où n est un nombre entier saisi par l'utilisateur.
+- Écrivez un programme qui prend en entrée un nombre et print "Ce nombre est pair" ou "Ce nombre est impair" en fonction de la valeur saisie.
+- Écrivez un programme qui demande à l'utilisateur de saisir une phrase et print le nombre de mots dans cette phrase
+- Déclarer un tableau de 5 entiers et initialiser chacun d'eux avec une valeur saisie par l'utilisateur. Print le contenu du tableau à l'écran.
+- Écrivez un programme qui implémente une fonction qui calcule la somme des éléments d'un tableau d'entiers.
+- Écrivez un programme qui implémente une fonction qui calcule la moyenne des éléments d'un tableau d'entiers.
+- Écrivez un programme qui implémente une fonction qui calcule le minimum et le maximum des éléments d'un tableau d'entiers.
 - Ecrire une fonction qui prend un nombre entier en entrée et renvoie sa factorielle (ex: 5! = 54321). Utiliser cette fonction pour calculer la factorielle d'un nombre saisi par l'utilisateur.
-- Créer une structure "Personne" qui contient les champs "nom", "âge" et "adresse". Demander à l'utilisateur de saisir des informations pour 3 personnes différentes, les stocker dans des variables de type "Personne" et les afficher à l'écran.
+- Écrivez un programme qui calcule le n-ième terme de la suite de Fibonacci.
+- Créer une structure "Personne" qui contient les champs "nom", "âge" et "adresse". Demander à l'utilisateur de saisir des informations pour 3 personnes différentes, les stocker dans des variables de type "Personne" et les print à l'écran.
 
 ## Etape 4 : Appel d'API 4️⃣
 
