@@ -43,7 +43,7 @@ Pour en savoir plus sur le langage Rust, je vous invite à lire la documentation
 - Écrivez un programme qui implémente une fonction qui calcule la somme des éléments d'un tableau d'entiers.
 - Écrivez un programme qui implémente une fonction qui calcule la moyenne des éléments d'un tableau d'entiers.
 - Écrivez un programme qui implémente une fonction qui calcule le minimum et le maximum des éléments d'un tableau d'entiers.
-- Ecrire une fonction qui prend un nombre entier en entrée et renvoie sa factorielle (ex: 5! = 54321). Utiliser cette fonction pour calculer la factorielle d'un nombre saisi par l'utilisateur.
+- Ecrire une fonction qui prend un nombre entier en entrée et renvoie sa factorielle (ex: 5! = 120). Utiliser cette fonction pour calculer la factorielle d'un nombre saisi par l'utilisateur.
 - Écrivez un programme qui calcule le n-ième terme de la suite de Fibonacci.
 - Créer une structure "Personne" qui contient les champs "nom", "âge" et "adresse". Demander à l'utilisateur de saisir des informations pour 3 personnes différentes, les stocker dans des variables de type "Personne" et les print à l'écran.
 
